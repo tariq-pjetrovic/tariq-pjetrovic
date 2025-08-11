@@ -41,7 +41,10 @@ Statistical analysis and machine learning model predicting short-term stock pric
 ---
 
 ## 📈 GitHub Stats
-![Tariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tariq-pjetrovic&show_icons=true&theme=tokyonight&count_private=true)
+![Tariq's GitHub stats](https://github-readme-stats-git-main-tariq-pjetrovics-projects.vercel.app/api?username=tariq-pjetrovic&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats-git-main-tariq-pjetrovics-projects.vercel.app/api/top-langs/?username=tariq-pjetrovic&layout=compact&theme=tokyonight)
+
 
 ---
 
