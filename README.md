@@ -1,6 +1,6 @@
 # Hi, I'm Tariq 👋
 
-🎓 **Software Development Student at Utah Valley University**  
+🎓 Computer Science Student at Utah Valley University & 💻 Software Developer — passionate about full-stack development, automation, and AI/ML.
 💻 Passionate about **full-stack development, AI & ML, automation systems, and API integrations**  
 ⚡ Experienced in building real-world projects for large online communities and personal portfolio work
 
