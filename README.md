@@ -21,10 +21,15 @@
 
 ## 📌 Featured Projects
 
-### Puffy Guild Automation Systems *(Case Study)*
-Automation tools and backend services developed for a large online community (~1,000+ members), including custom bots, API integrations, and quality-of-life improvements.  
-**Tech:** Node.js, Express, Java, JavaScript, MongoDB, Discord.js, Hypixel API, REST APIs, WebSockets  
-> *Source code is private due to licensing. I can discuss architecture and selected examples during interviews with permission.*
+### [Puffy Guild Discord Bot](https://github.com/tariq-pjetrovic/puffy-discord-bot-portfolio)
+Custom Discord bot for a large online gaming community (~1,000+ members), featuring moderation tools, automated recruitment, staff utilities, and integration with Minecraft guild chat.  
+**Tech:** Node.js, Express, JavaScript, Discord.js, REST APIs, WebSockets
+
+---
+
+### [Puffy Guild Minecraft Bot](https://github.com/tariq-pjetrovic/Minecraft-Guild-Link-Portfolio)
+Backend automation and chat integration system for Minecraft Hypixel Guild, providing cross-platform communication between the game and Discord, as well as automated data tracking.  
+**Tech:** JavaScript, Hypixel API, WebSockets, REST APIs
 
 ---
 
