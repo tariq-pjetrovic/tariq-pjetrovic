@@ -64,9 +64,10 @@ Statistical analysis and machine learning model predicting short-term stock pric
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/tariq-pjetrovic-028b7731b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tariq-pjetrovic-028b7731b)
 [![Handshake](https://img.shields.io/badge/Handshake-orange?style=flat)](https://uvu.joinhandshake.com/profiles/mcc2es)
-[![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail)](mailto:tariqpjetrovic@gmail.com)
+📧 [Email Me](mailto:tariqpjetrovic@gmail.com)
+
 
 ---
 > “The best way to predict the future is to create it.”
