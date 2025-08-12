@@ -45,6 +45,14 @@ Statistical analysis and machine learning model predicting short-term stock pric
 
 ---
 
+## 🚀 Highlights
+- Built **two production-ready bots** handling live community events, moderation, and API integrations
+- Deployed **full-stack MERN e-commerce site** with authentication & role-based permissions
+- Developed **AI-powered stock predictor** using historical data analysis and ML models
+- Experienced in **collaborative development** with real teams and licensing compliance
+
+---
+
 ## 📈 GitHub Stats
 ![Tariq's GitHub stats](https://github-readme-stats-eight-zeta-67.vercel.app/api?username=tariq-pjetrovic&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800)
 
