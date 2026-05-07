@@ -75,4 +75,4 @@ Machine learning and statistical analysis project focused on short-term stock tr
 
 [![Handshake](https://img.shields.io/badge/Handshake-orange?style=flat)](https://uvu.joinhandshake.com/profiles/mcc2es)
 
-📧 [Email Me](mailto:tariqpjetrovic@gmail.com)
+📧 tariqpjetrovic@gmail.com
