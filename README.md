@@ -1,73 +1,78 @@
-# Hi, I'm Tariq 👋
+# Hi, I'm Tariq
 
-🎓 Computer Science Student at Utah Valley University & 💻 Software Developer — passionate about full-stack development, automation, and AI/ML.
+Building backend systems, automation platforms, real-time integrations, and full-stack applications using TypeScript, Node.js, React, and Python.
 
-💻 Passionate about **full-stack development, AI & ML, automation systems, and API integrations**  
-⚡ Experienced in building real-world projects for large online communities and personal portfolio work
+Experienced developing systems for large online communities, administrative tooling, API-driven workflows, and real-time event processing.
 
 ---
 
-## 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)
+## Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)
+
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-lightgrey?style=flat&logo=express)
 ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-brightgreen?style=flat&logo=mongodb)
-![REST API](https://img.shields.io/badge/REST%20API-black?style=flat&logo=api)
+
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
+![REST API](https://img.shields.io/badge/REST%20API-black?style=flat)
 ![WebSockets](https://img.shields.io/badge/WebSockets-purple?style=flat&logo=socket.io)
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### [Puffy Guild Discord Bot](https://github.com/tariq-pjetrovic/puffy-discord-bot-portfolio)
-Custom Discord bot for a large online gaming community (~1,000+ members), featuring moderation tools, automated recruitment, staff utilities, and integration with Minecraft guild chat.  
+
+Backend automation and moderation platform supporting a 1,000+ member online community with real-time event handling, analytics workflows, API integrations, recruitment systems, and administrative tooling.
+
 **Tech:** Node.js, Express, JavaScript, Discord.js, REST APIs, WebSockets
 
 ---
 
 ### [Puffy Guild Minecraft Bot](https://github.com/tariq-pjetrovic/Minecraft-Guild-Link-Portfolio)
-Backend automation and chat integration system for Minecraft Hypixel Guild, providing cross-platform communication between the game and Discord, as well as automated data tracking.  
-**Tech:** JavaScript, Hypixel API, WebSockets, REST APIs
+
+Real-time Minecraft and Discord integration system for Hypixel guild management, cross-platform communication, automated event tracking, and backend data workflows.
+
+**Tech:** JavaScript, Hypixel API, REST APIs, WebSockets
 
 ---
 
-### [E-Commerce Website (MERN Stack)](https://github.com/tariq-pjetrovic/CompSciIA)
-Full-stack e-commerce platform with authentication, role-based access, and product management.  
+### [E-Commerce Platform (MERN Stack)](https://github.com/tariq-pjetrovic/CompSciIA)
+
+Full-stack e-commerce platform featuring authentication, role-based access control, REST API architecture, product management systems, and administrative functionality.
+
 **Tech:** MongoDB, Express, React, Node.js, JWT, REST APIs
 
 ---
 
 ### [AI Stock Market Predictor](https://github.com/tariq-pjetrovic/MathIAStockPredictor)
-Statistical analysis and machine learning model predicting short-term stock price trends using historical market data.  
+
+Machine learning and statistical analysis project focused on short-term stock trend prediction using historical market datasets, preprocessing workflows, and predictive modeling.
+
 **Tech:** Python, NumPy, Matplotlib, Scikit-learn
 
 ---
 
-## 🚀 Highlights
-- Built **two production-ready bots** handling live community events, moderation, and API integrations
-- Deployed **full-stack MERN e-commerce site** with authentication & role-based permissions
-- Developed **AI-powered stock predictor** using historical data analysis and ML models
-- Experienced in **collaborative development** with real teams and licensing compliance
+## Highlights
+
+- Built and maintained live automation systems supporting moderation, communication, and event workflows for large online communities
+- Developed backend services, API integrations, and real-time systems using Node.js and WebSockets
+- Experience working in startup engineering environments across production debugging, feature delivery, and platform tooling
+- Built full-stack applications with authentication systems, role-based access control, and scalable backend workflows
 
 ---
 
-## 📈 GitHub Stats
-![Tariq's GitHub stats](https://github-readme-stats-eight-zeta-67.vercel.app/api?username=tariq-pjetrovic&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800)
+## Connect With Me
 
-
-![Top Langs](https://github-readme-stats-eight-zeta-67.vercel.app/api/top-langs/?username=tariq-pjetrovic&layout=compact&theme=tokyonight)
-
-
----
-
-## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tariq-pjetrovic-028b7731b)
+
 [![Handshake](https://img.shields.io/badge/Handshake-orange?style=flat)](https://uvu.joinhandshake.com/profiles/mcc2es)
+
 📧 [Email Me](mailto:tariqpjetrovic@gmail.com)
-
-
----
-> “The best way to predict the future is to create it.”
